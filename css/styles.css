@@ -16,10 +16,9 @@ body
     color: #4D5AE5;
 }
 
-.span-logo
+.span-top-logo
 {
-    /* color: #2E2F42; */
-    color: #F4F4FD;
+    color: #2E2F42;
 }
 
 .navbar-element
@@ -108,6 +107,11 @@ body
 .footer
 {
     background-color: #2E2F42;
+}
+
+.span-bottom-logo
+{
+    color: #F4F4FD;
 }
 
 .footer-description
