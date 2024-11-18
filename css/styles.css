@@ -13,12 +13,12 @@ body
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #4D5AE5;
 }
 
 .span-logo
 {
-    color: #2e2f42;
+    color: #2E2F42;
 }
 
 .navbar-element
@@ -26,13 +26,13 @@ body
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #2E2F42;
 
 }
 
 .navbar-element:hover, .navbar-element:focus
 {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .email-and-telephone
@@ -42,5 +42,12 @@ body
 
 .footer
 {
-    background-color: #2e2f42;
+    background-color: #2E2F42;
+}
+
+.footer-description
+{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
