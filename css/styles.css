@@ -40,6 +40,35 @@ body
     font-style: normal;
 }
 
+.title-section
+{
+    background-color: #2E2F42;
+}
+
+.page-title
+{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.button-title
+{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button-title:hover, .button-title:focus
+{
+    background-color: #404BBF;
+}
+
 .footer
 {
     background-color: #2E2F42;
