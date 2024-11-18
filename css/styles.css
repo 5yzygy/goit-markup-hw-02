@@ -21,14 +21,14 @@ body
     color: #2E2F42;
 }
 
-a
+.address-list
 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-a:hover, a:focus
+.address-list:hover, .address-list:focus
 {
     color: #404BBF;
 }
