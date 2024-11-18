@@ -33,7 +33,7 @@ a:hover, a:focus
     color: #404BBF;
 }
 
-.navbar-element, .navbar-home-element
+.navbar-element
 {
     font-weight: 500;
     line-height: 1.5;
