@@ -21,7 +21,7 @@ body
     color: #2E2F42;
 }
 
-a, .navbar-home-element
+a
 {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -33,7 +33,7 @@ a:hover, a:focus
     color: #404BBF;
 }
 
-.navbar-element
+.navbar-element, .navbar-home-element
 {
     font-weight: 500;
     line-height: 1.5;
