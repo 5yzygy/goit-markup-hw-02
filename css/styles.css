@@ -21,12 +21,11 @@ body
     color: #2E2F42;
 }
 
-a
+a, .navbar-home-element
 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 
 a:hover, a:focus
@@ -40,7 +39,6 @@ a:hover, a:focus
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
-
 }
 
 .navbar-element:hover, .navbar-element:focus
