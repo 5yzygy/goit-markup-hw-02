@@ -5,7 +5,8 @@ body
     color: #434455;
 }
 
-.logo
+/* .logo */
+header nav a
 {
     font-size: 16px;
     line-height: 1.5;
@@ -13,7 +14,8 @@ body
     color: #434455;
 }
 
-.logo:hover, .logo:focus
+/* .logo:hover, .logo:focus */
+header nav a:hover, header nav a:focus
 {
-    color: #404bbf;
+    color: #2A3750;
 }
