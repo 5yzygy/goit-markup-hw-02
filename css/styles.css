@@ -94,6 +94,16 @@ body
     letter-spacing: 0.02em;
 }
 
+.our-team-section
+{
+    background-color: #F4F4FD;
+}
+
+.people
+{
+    background-color: #FFFFFF;
+}
+
 .footer
 {
     background-color: #2E2F42;
