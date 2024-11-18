@@ -21,17 +21,16 @@ span
     color: #2e2f42;
 }
 
-/* .logo
-header nav a
+.navbar-element
 {
-    font-size: 16px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
+
 }
 
-.logo:hover, .logo:focus
-header nav a:hover, header nav a:focus
+.navbar-element:hover, .navbar-element:focus
 {
-    color: #2A3750;
-} */
+    color: #404bbf;
+}
